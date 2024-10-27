@@ -1,4 +1,4 @@
-# CODEBASICS_CH4  {SQL PROJECT CHALLENGE}
+EXECUTIVE REPORTING FOR CONSUMER GOODS
 
 Project Background:
 This project is by Codebasics.
